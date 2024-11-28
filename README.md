@@ -4,7 +4,6 @@
 # Date:27/11/2024
 =======
 # Date: 27/11/2024
->>>>>>> f6afd37ba788784df3fbd38e95ecfe9db68dcfc3
 # AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
@@ -72,12 +71,10 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 # OUTPUT:
-<<<<<<< HEAD
 ![alt text](<Screenshot 2024-11-28 090507.png>)
 =======
 
 
->>>>>>> f6afd37ba788784df3fbd38e95ecfe9db68dcfc3
 
 ![alt text](<Screenshot 2024-11-28 090435.png>)
 # RESULT:
