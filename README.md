@@ -75,9 +75,7 @@ httpd.serve_forever()
 <<<<<<< HEAD
 ![alt text](<Screenshot 2024-11-28 090507.png>)
 =======
-![Screenshot 2024-11-27 164512](https://github.com/user-attachments/assets/bb6848a3-d82f-49b1-bac9-62452ed1a55d)
 
-![Screenshot 2024-11-27 163304](https://github.com/user-attachments/assets/330518e5-4835-4da7-b540-6bb0e0121157)
 
 >>>>>>> f6afd37ba788784df3fbd38e95ecfe9db68dcfc3
 
