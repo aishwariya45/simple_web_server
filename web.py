@@ -24,7 +24,7 @@ content = """
         <th>4</th><th>OS</th><th>WINDOWS 11</th>
         </tr>
         <tr>
-        <th>5</th><th>GRAPIC CARD</th><TH>NVIDIA</TH>
+        <th>5</th><th>GRAPIC CA RD</th><TH>NVIDIA</TH>
         </tr>
         </table>
  </body>
